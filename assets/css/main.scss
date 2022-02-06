@@ -328,11 +328,11 @@ span{
 }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1028px){
  
     .title{
         h1{
-            font-size: 4rem;
+            font-size: 3.5rem;
         }
         p{
             font-size: 0.9rem;
@@ -359,9 +359,6 @@ span{
         p{
             margin: 3rem;
         }
-    }
-    .bear, .grid{
-        
     }
     .grid-box1{
         grid-column: 1/9;
