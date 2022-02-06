@@ -538,4 +538,10 @@ span {
     padding-top: 5rem;
   }
 }
+
+@media screen and (max-width: 468px) {
+  header, main, footer {
+    width: 468px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
